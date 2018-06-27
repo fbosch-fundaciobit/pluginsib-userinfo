@@ -1,0 +1,4 @@
+org\fundaciobit\plugins\userinformation\RolesInfo.class
+org\fundaciobit\plugins\userinformation\UserInfo.class
+org\fundaciobit\plugins\userinformation\IUserInformationPlugin.class
+org\fundaciobit\plugins\userinformation\UserInfo$Gender.class
